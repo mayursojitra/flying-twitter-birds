@@ -26,8 +26,10 @@ Twitter Bird flying animated effect by Javascript. When you'll scroll the page U
 - [People per hour](http://pph.me/mayursojitra)
 - [UpWork](https://www.upwork.com/freelancers/~019d3db2c3f08414b8)
 
-- [Mail me](mailto:hello@murait.com)
-- [Contact Us](https://www.theandroid-mania.com/contact)
+# Contact Me
+
+- [**Mail me**](mailto:hello@murait.com)
+- [**Contact Us**](https://www.theandroid-mania.com/contact)
 
 
 :+1: **Happy Coding!!!**
