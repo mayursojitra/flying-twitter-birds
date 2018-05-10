@@ -11,8 +11,6 @@ Twitter Bird flying animated effect by Javascript. When you'll scroll the page U
 
 # Screenshots
 
-![flying-twitter-birds](https://raw.githubusercontent.com/mayursojitra/flying-twitter-birds/master/screenshot-2.png)
-
 ![flying-twitter-birds](https://raw.githubusercontent.com/mayursojitra/flying-twitter-birds/master/screenshot-4.png)
 
 # Author
